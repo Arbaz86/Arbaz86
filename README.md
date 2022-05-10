@@ -93,21 +93,16 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arbaz86&show_icons=true&locale=en&theme=highcontrast" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&hide_border=true&layout=compact" align="right" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" align="right" style="width: 100%" /></div>
+ 
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
@@ -115,6 +110,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
