@@ -82,7 +82,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+ <img style="margin: 10px" src="https://imgs.search.brave.com/-6OJsjD7IMFihfLX5n0ffSnspxMdGVfCB6CTCUIQBCQ/rs:fit:452:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5P/ZU5HTWhUcHdfSndi/NWRhT216eDB3QUFB/QSZwaWQ9QXBp" alt="Git" height="50" />
 </div>  
 
 <br/>  
