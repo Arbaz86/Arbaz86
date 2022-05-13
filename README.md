@@ -87,6 +87,8 @@
  <img style="margin: 10px" src="https://imgs.search.brave.com/-6OJsjD7IMFihfLX5n0ffSnspxMdGVfCB6CTCUIQBCQ/rs:fit:452:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5P/ZU5HTWhUcHdfSndi/NWRhT216eDB3QUFB/QSZwaWQ9QXBp" alt="Git" height="50" />
  <img style="margin: 10px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Git" height="50" />
  <img style="margin: 10px" src="https://imgs.search.brave.com/sgfOVT7jfNlikgP7jdbI-cKq9_EkM_MWpww6KLdPoS8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvd2Vi/cGFjay1pY29uLWxv/Z28tcG5nLXRyYW5z/cGFyZW50LnBuZw" alt="Git" height="50" />
+
+  <img style="margin: 10px" src="https://intoli.com/img/banners/yarn-logo.png" alt="Git" height="45" />
  
 </div>  
 
