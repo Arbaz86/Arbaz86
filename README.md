@@ -82,13 +82,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
+<img style="margin: 10px" src="https://imgs.search.brave.com/fUka3B65wi3qR6ijrFMZHRBBidoHjRl5MjpWPTGMhjc/rs:fit:816:816:1/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLTEubWVk/aXVtLmNvbS9tYXgv/MTIwMC8xKm1uNmJP/czdzNlFiYW8xNVBN/TlJ5T0EucG5n" alt="typescript" height="48" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
- <img style="margin: 10px" src="https://imgs.search.brave.com/-6OJsjD7IMFihfLX5n0ffSnspxMdGVfCB6CTCUIQBCQ/rs:fit:452:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5P/ZU5HTWhUcHdfSndi/NWRhT216eDB3QUFB/QSZwaWQ9QXBp" alt="Git" height="50" />
- <img style="margin: 10px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Git" height="50" />
+ <img style="margin: 10px" src="https://imgs.search.brave.com/_GSAYzJnVRCx-G0-GPGR5mgeLDBTXpwe0WwDQYRvQJo/rs:fit:300:238:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL00vbWF0ZXJp/YWwtdWktbG9nby01/QkRDQjlCQThGLXNl/ZWtsb2dvLmNvbS5w/bmc" alt="material ui" height="50" />
+ 
+ <img style="margin: 10px" src="https://imgs.search.brave.com/WWsp1-7N13JdkpzhR1OyLzahinIn_F5a54M1i6rPf_4/rs:fit:404:404:1/g:ce/aHR0cHM6Ly9idWls/ZC5ydWJyaWsuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L3Bvc3RtYW4t/bG9nby5wbmc" alt="postman" height="50" />
  <img style="margin: 10px" src="https://imgs.search.brave.com/sgfOVT7jfNlikgP7jdbI-cKq9_EkM_MWpww6KLdPoS8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvd2Vi/cGFjay1pY29uLWxv/Z28tcG5nLXRyYW5z/cGFyZW50LnBuZw" alt="Git" height="50" />
-
-  <img style="margin: 10px" src="https://intoli.com/img/banners/yarn-logo.png" alt="Git" height="45" />
+  <img style="margin: 10px" src="https://intoli.com/img/banners/yarn-logo.png" alt="yarn" height="45" />
  
 </div>  
 
