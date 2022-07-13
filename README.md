@@ -90,6 +90,7 @@
  <img style="margin: 10px" src="https://imgs.search.brave.com/WWsp1-7N13JdkpzhR1OyLzahinIn_F5a54M1i6rPf_4/rs:fit:404:404:1/g:ce/aHR0cHM6Ly9idWls/ZC5ydWJyaWsuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L3Bvc3RtYW4t/bG9nby5wbmc" alt="postman" height="50" />
  <img style="margin: 10px" src="https://imgs.search.brave.com/sgfOVT7jfNlikgP7jdbI-cKq9_EkM_MWpww6KLdPoS8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvd2Vi/cGFjay1pY29uLWxv/Z28tcG5nLXRyYW5z/cGFyZW50LnBuZw" alt="Git" height="50" />
   <img style="margin: 10px" src="https://intoli.com/img/banners/yarn-logo.png" alt="yarn" height="45" />
+  <img style="margin: 10px" src="https://imgs.search.brave.com/WV6VEtYwmD8e3_kn_oL3vLNszt0xkCZpzLeV4kKG1a0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/bG9nb2x5bnguY29t/L2ltYWdlcy9sb2dv/bHlueC83Zi83ZmI5/NzZhNTM3NjIwZmVk/MzEwODcyZDUzM2Nk/MTYxYy5wbmc" alt="npm" height="55" />
  
 </div>  
 
