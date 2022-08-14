@@ -16,7 +16,7 @@
 <div align="center">
 
 ### Glad to see you here!  
-*<div align="center">I'm a full-stack web developer with over 1200 hours of coding experience and have created numerous projects. Being a full-stack developer allows me to create websites that are not only client-facing but also have solid backend support.✨✨</div>*  
+*<div align="center">I'm a full-stack web developer with over 1200 hours of coding experience and have created numerous projects. A passion for learning with an endless supply of optimism and curiosity.✨✨</div>*  
   
   ### Connect with me : 
   <a href="https://github.com/Arbaz86" target="_blank">
