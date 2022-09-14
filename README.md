@@ -59,7 +59,7 @@
 
 -  👨‍💻 All of my projects are available at  [My Portfolio](https://arbaz-hussain-portfolio.netlify.app/)  
 
-- 📫 How to reach me arbazhussain1004@gmail.com
+- 📫 How to reach me arbazh777@gmail.com
 
 </td><td valign="top" width="50%">
 
