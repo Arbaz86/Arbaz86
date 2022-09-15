@@ -15,8 +15,8 @@
   
 <div align="center">
 
-### Glad to see you here!  
-*<div align="center">I'm a full-stack web developer with over 1200 hours of coding experience and have created numerous projects. A passion for learning with an endless supply of optimism and curiosity.✨✨</div>*  
+## Glad to see you here!  
+<h3 align="center">I'm a full-stack web developer with over 1200 hours of coding experience and have created numerous projects. A passion for learning with an endless supply of optimism and curiosity.✨✨</h3>
   
   ### Connect with me : 
   <a href="https://github.com/Arbaz86" target="_blank">
