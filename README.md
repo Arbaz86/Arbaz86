@@ -102,12 +102,13 @@
 ## Github Stats  
 <table align="center"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arbaz86&show_icons=true&locale=en&theme=highcontrast" align="left" style="width: 100%" />
+
+![Arbaz86's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arbaz86&show_icons=true&theme=highcontrast)
 
 </td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" align="right" style="width: 100%" /></div>
- 
+                                 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/Arbaz86/github-readme-stats)
+                                 
 
 </td></tr></table>  
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
