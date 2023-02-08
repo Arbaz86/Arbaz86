@@ -1,12 +1,13 @@
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]()  -->
 <div align="center">
- <img src="https://camo.githubusercontent.com/4089602eeab1cc3051bdc2b19de982696d74a7eef500f615b78d4ef1b885674f/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032332f30312f31312f30352f31302f30352d31302d31392d3732365f3531322e676966" align="center" width="100%" height="320px  />
+
 </div>
 
-<br>
+
 
 <div align="center">Hey 👋, I'm Arbaz Hussain</div>  
-  
+
+<br />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Arbaz86&&style=flat-square" align="center" />
