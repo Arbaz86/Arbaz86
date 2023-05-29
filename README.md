@@ -1,6 +1,6 @@
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]()  -->
 <div align="center">
-<img src="https://scontent.fbom40-1.fna.fbcdn.net/v/t39.30808-6/327919703_1341095023125044_7165777461153271444_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_ohc=WOi8g4RJYo4AX-3Se-A&_nc_oc=AQm05Pwa6Sj3oZXMyBmoqvVF9LKe5YP6aRMaqZhlW7RHBgmVXVfVbUjay21N7XjU05U&_nc_ht=scontent.fbom40-1.fna&oh=00_AfBXAU-vJihVTVD3aVXQaUPQFhWK2gYPjiqeZGZ1sEj-XQ&oe=645E7A2A" alt="banner" />
+<img src="https://scontent.fbom40-1.fna.fbcdn.net/v/t39.30808-6/327919703_1341095023125044_7165777461153271444_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_ohc=tTDMG6ayjWkAX-yemop&_nc_oc=AQnDUEhas_BIP1-LH_4-Xwg9yk8jaIqI4-vl2CPhR5aMxZCiVlxlWHUVOZLgod-dw_E&_nc_ht=scontent.fbom40-1.fna&oh=00_AfDi7KEop7mHB3tpt3Q-kJ_JkfWw4Tvfp-OmxgwYLPt17g&oe=647A29AA" alt="banner" />
 </div>
 
 
@@ -68,7 +68,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif" align="center" style="width: 100%" />
 </div>  
 
 
