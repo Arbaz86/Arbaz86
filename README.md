@@ -1,11 +1,4 @@
-<!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]()  -->
-<div align="center">
-<img src="https://scontent.fbom19-3.fna.fbcdn.net/v/t39.30808-6/327919703_1341095023125044_7165777461153271444_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=rJfFIAhhi3YAX_xlZRT&_nc_oc=AQmYHprw4frcttPuPxsRpbBeVv32eFeOwAWMgY8fV-ePKC9kEfHASnoL4_M5_ourIXIxJAXjX-D6qsEV22wItmG9&_nc_ht=scontent.fbom19-3.fna&oh=00_AfBfH2sEg7XbDFYtpZE7Fpxz4aQPoqWm71Xr_0g81byhOA&oe=655B9A2A" alt="banner" />
-</div>
-
-
-
-<div align="center">Hey 👋, I'm Arbaz Hussain</div>  
+<h2 align="center">Hey 👋, I'm Arbaz Hussain</h2>  
 
 <br />
 
