@@ -45,10 +45,10 @@
 - 🔭 I’m currently working on React Project  
   
 
-- 🌱 I’m currently learning MERN Stack  
+- 🌱 I’m currently learning Angular  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN and MEAN stack and related technologies  
   
 
 - 👯 I’m looking to collaborate on Open Source Projects  
