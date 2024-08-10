@@ -13,8 +13,10 @@
 <div align="center">
 
 ## Glad to see you here!  
-<h3 align="center">I'm a full-stack web developer with over 2160 hours of coding experience and have created numerous projects. A passion for learning with an endless supply of optimism and curiosity.✨✨</h3>
-  
+<h3 align="center">
+  I'm a full-stack web developer with 2+ years of experience, passionate about learning and building innovative projects. My optimism and curiosity fuel my growth and drive to excel. ✨✨
+</h3>
+
   ### Connect with me : 
   <a href="https://github.com/Arbaz86" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
