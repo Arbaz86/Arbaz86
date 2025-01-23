@@ -29,7 +29,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on React Project  
+- 🔭 I’m currently working on Angular Project  
   
 
 - 🌱 I’m currently learning Angular  
@@ -74,7 +74,7 @@
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" height="50" />
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="typescript" height="50" />
  <img style="margin: 10px" src="https://imgs.search.brave.com/sgfOVT7jfNlikgP7jdbI-cKq9_EkM_MWpww6KLdPoS8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvd2Vi/cGFjay1pY29uLWxv/Z28tcG5nLXRyYW5z/cGFyZW50LnBuZw" alt="Git" height="50" />
-  <img style="margin: 10px" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn" height="45" />
+  <img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/yarn-icon-2048x2048-dejkdvhq.png" alt="yarn" height="45" />
   <img style="margin: 10px" src="https://imgs.search.brave.com/WV6VEtYwmD8e3_kn_oL3vLNszt0xkCZpzLeV4kKG1a0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/bG9nb2x5bnguY29t/L2ltYWdlcy9sb2dv/bHlueC83Zi83ZmI5/NzZhNTM3NjIwZmVk/MzEwODcyZDUzM2Nk/MTYxYy5wbmc" alt="npm" height="55" />
  
 </div>  
