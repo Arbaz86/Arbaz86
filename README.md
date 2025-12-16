@@ -1,99 +1,122 @@
-<p align="center">Hey 👋, I'm Arbaz Hussain</p>  
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Arbaz%20Hussain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20High-Performance%20Web%20Architectures&descAlignY=60&descAlign=50&font=Cinzel" width="100%" />
+
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Frontend+Architectures;Expert+in+Angular,+React+%26+Next.js;Building+Cross-Platform+Mobile+Apps;2.7%2B+Years+of+Enterprise+Experience" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/arbazhussain10">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arbazh777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://arbaz-hussain-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Arbaz86&style=for-the-badge&color=222222&label=Profile+Views" />
+</div>
+
+<br />
+<br />
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 Engineering Profile</h3>
+      <p>
+        I am a specialized <b>Frontend Developer</b> with <b>2.7+ years</b> of experience. I focus on building pixel-perfect, performant, and accessible interfaces for enterprise applications.
+      </p>
+      <br/>
+      <table>
+        <tr>
+            <td>🔭 <b>Stack:</b></td>
+            <td>Angular, React, Next.js</td>
+        </tr>
+        <tr>
+            <td>📱 <b>Mobile:</b></td>
+            <td>React Native (Cross-Platform)</td>
+        </tr>
+        <tr>
+            <td>🌱 <b>Learning:</b></td>
+            <td>Advanced SSR Patterns</td>
+        </tr>
+        <tr>
+            <td>💼 <b>Focus:</b></td>
+            <td>Scalability & Architecture</td>
+        </tr>
+      </table>
+      <br/>
+      <a href="mailto:arbazh777@gmail.com">
+        <img src="https://img.shields.io/badge/Hire_Me-Send_Email-success?style=for-the-badge&logo=gmail" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/Arbaz86">
+          <img src="https://github-readme-stats.vercel.app/api?username=Arbaz86&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=9f9f9f&icon_color=36BCF7&hide=stars" width="100%" />
+        </a>
+        <a href="https://github.com/Arbaz86">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=9f9f9f" width="100%" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">💻 The Full Arsenal</h3>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Frontend-DD0031?style=flat&logo=angular&logoColor=white" />
+    </td>
+    <td>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,html,css,tailwind,redux,bootstrap,sass&perline=11" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Backend-339933?style=flat&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=11" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Mobile-61DAFB?style=flat&logo=react&logoColor=black" />
+    </td>
+    <td>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Tools-F05032?style=flat&logo=git&logoColor=white" />
+    </td>
+    <td>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,vite,npm,yarn,vercel,figma&perline=11" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Arbaz86&&style=flat-square" align="center" />
-</div>  
-  
-
-
-
-  
-<div align="center">
-
-## Glad to see you here!  
-<h3 align="center">
-  I'm a full-stack web developer with 2.7 years of experience, passionate about learning and building innovative projects. My optimism and curiosity fuel my growth and drive to excel. ✨✨
-</h3>
-
-  ### Connect with me : 
-<a href="https://linkedin.com/in/arbazhussain10" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-<br/>  
-
-
-
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Angular Project  
-  
-
-- 🌱 I’m currently learning Angular  
-  
-
-- ❓ Ask me about anything related to MERN and MEAN stack and related technologies  
-  
-
-- 👯 I’m looking to collaborate on Open Source Projects  
-  
-
--  👨‍💻 All of my projects are available at  [My Portfolio](https://arbaz-hussain-portfolio.netlify.app/)  
-
-- 📫 How to reach me arbazh777@gmail.com
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-## 🖥️ Technologies and Skills: 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="Express.js" height="50" />
-   <img style="margin: 10px" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript.png" alt="typescript" height="50" />
-  <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/angular-icon.png" alt="Angular" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://www.pngrepo.com/png/303670/180/firebase-1-logo.png" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="material ui" height="50" />
- <img style="margin: 10px" src="https://www.svgviewer.dev/static-svgs/14595/tailwindcss-icon.svg" alt="TailwindCss" height="50" /> 
- <img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" height="50" />
-
- <img style="margin: 10px" src="https://imgs.search.brave.com/sgfOVT7jfNlikgP7jdbI-cKq9_EkM_MWpww6KLdPoS8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvd2Vi/cGFjay1pY29uLWxv/Z28tcG5nLXRyYW5z/cGFyZW50LnBuZw" alt="Git" height="50" />
-  <img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/yarn-package-manager-icon.png" alt="yarn" height="45" />
-  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="npm" height="55" />
- 
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table align="center"><tr><td valign="top" width="50%">
-
-
-![Arbaz86's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arbaz86&show_icons=true&theme=highcontrast)
-
-</td><td valign="top" width="50%">
-                                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117)](https://github.com/Arbaz86/github-readme-stats)
-                                 
-
-</td></tr></table>  
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
