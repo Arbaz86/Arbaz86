@@ -70,7 +70,7 @@
 
 <br/>
 
-<h3 align="center">💻 The Full Arsenal</h3>
+<h3 align="center">💻 The Build Kit</h3>
 
 <table align="center" border="0">
   <tr>
@@ -79,7 +79,7 @@
     </td>
     <td>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,html,css,tailwind,redux,bootstrap,sass&perline=11" />
+            <img src="https://skillicons.dev/icons?i=angular,react,nextjs,js,ts,html,css,tailwind,redux,bootstrap&perline=11" />
         </a>
     </td>
   </tr>
