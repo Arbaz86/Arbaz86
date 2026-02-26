@@ -4,7 +4,7 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Frontend+Architectures;Expert+in+Angular,+React+%26+Next.js;Building+Cross-Platform+Mobile+Apps;2.7%2B+Years+of+Enterprise+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Frontend+Architectures;Expert+in+Angular,+React+%26+Next.js;Building+Cross-Platform+Mobile+Apps;3%2B+Years+of+Enterprise+Experience" alt="Typing SVG" />
   </a>
 </div>
 
@@ -58,11 +58,17 @@
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/Arbaz86">
-          <img src="https://github-readme-stats.vercel.app/api?username=Arbaz86&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=9f9f9f&icon_color=36BCF7&hide=stars" width="100%" />
+          <img 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arbaz86&theme=transparent"
+            width="100%" />
         </a>
-        <a href="https://github.com/Arbaz86">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz86&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=9f9f9f" width="100%" />
-        </a>
+       <a href="https://github.com/Arbaz86" target="_blank">
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arbaz86&layout=compact&langs_count=8&cache_seconds=1800" 
+          alt="Top Languages" 
+          width="100%" 
+        />
+      </a>
       </div>
     </td>
   </tr>
