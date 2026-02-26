@@ -29,7 +29,7 @@
     <td width="50%" valign="top">
       <h3>👨‍💻 Engineering Profile</h3>
       <p>
-        I am a specialized <b>Frontend Developer</b> with <b>2.7+ years</b> of experience. I focus on building pixel-perfect, performant, and accessible interfaces for enterprise applications.
+        I am a specialized <b>Frontend Developer</b> with <b>3+ years</b> of experience. I focus on building pixel-perfect, performant, and accessible interfaces for enterprise applications.
       </p>
       <br/>
       <table>
