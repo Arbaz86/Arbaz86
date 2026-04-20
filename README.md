@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Arbaz%20Hussain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20High-Performance%20Web%20Architectures&descAlignY=60&descAlign=50&font=Cinzel" width="100%" />
 
   <br/>
